@@ -1,0 +1,1 @@
+This project consists of a machine learning music recommending system. The CSV files aren't included as they're too large for GitHub. 
